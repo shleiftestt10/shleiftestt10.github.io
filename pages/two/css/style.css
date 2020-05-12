@@ -1,0 +1,60 @@
+.header{
+	background-image: url(../img/FON_01.jpg);
+	min-height: 930px;
+	background-size: cover;
+	background-position: center;
+}
+.logo{
+	margin-left: -350px;
+	margin-top: 30px;
+}
+.main{
+	color: white;
+	margin-left:1150px;
+	margin-top: 30px;
+}
+.main-flex{
+	display: flex;
+	min-height: 700px;
+}
+.second-flex{
+	margin:auto;
+}
+.main-title{
+	text-align: center;
+	color:white;
+	margin-left: -350px;
+}
+.main-title hr{
+	background-color: white;
+}
+.main-title a{
+    background-color: orange;
+    padding: 15px 60px;
+    border-radius: 8px;
+    color:white;
+}
+.main-title:hover a{
+      text-decoration: none;
+}
+h4{
+	margin-bottom: 40px;
+	font-size: 2em;
+}
+h1{
+	margin-bottom: 40px;
+	font-size: 4em;
+}
+.boom{
+	color:white;
+}
+.boom a{
+	color:white;
+	text-decoration: none;
+}
+h6{
+	margin-bottom: 40px;
+}
+p{
+	margin-bottom: 40px;
+}

@@ -1,0 +1,33 @@
+body{
+	background-color: #DDCCD5;	
+}
+
+.top{
+	height: 200px;
+    background-image: url(../img/thumb_02020.jpg);
+    background-position: center;
+}
+
+section{
+	margin:30px;
+}
+.ancor{
+	background-color: green;
+	padding:10px 20px;
+	color: white;
+	border-radius: 16px;
+}
+.ancor:hover{
+	color: white;
+	text-decoration: none;
+}
+.nlo{
+	background-color: green;
+	padding:10px 20px;
+	color: white;
+	border-radius: 16px;
+}
+.nlo:hover{
+	color: white;
+	text-decoration: none;
+}

@@ -1,0 +1,10 @@
+.header{
+	background-image: url(../img/11.PNG);
+	min-height: 400px;
+	background-position: center;
+	background-size: cover;
+}
+
+section{
+	margin-top: 20px;
+}
